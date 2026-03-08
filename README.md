@@ -9,7 +9,7 @@
 <hr>
 <h3>How to play?</h3>
 <p>There are 2 simple ways to play Underneath. They are as follows:</p>
-<p><strong>i. In browser:</strong>You can play the game in your browser by just clicking <a href="https://pratikchalise.me">here</a>.</p>
+<p><strong>i. In browser:</strong>You can play the game in your browser by just clicking <a href="https://hexagrim.itch.io/underneath">here</a>.</p>
 <h4>ii. By Downloading the code:</h4>
 <p>1. Download Unity game engine and fork this repository onto your github profile.</p>
 <p>2. Download VS Code to git clone the repository into your respective device.</p>
@@ -23,7 +23,7 @@
 <p>iii. Libre Sprite: Libre Sprite is used in underneath to make the assets of the game and make the game more interactive to play.</p>
 <hr>
 <h3>Itch.io</h3>
-<p>You can see underneath's <a href="https://pratikchalise.me">itch</a> for more info's and to play the actual game, Enjoy! :D</p>
+<p>You can see underneath's <a href="https://hexagrim.itch.io/underneath">itch</a> for more info's and to play the actual game, Enjoy! :D</p>
   <hr>
 <h3>Developers:</h3>
 <p>1. <a href="https://github.com/Hexagrim">Aayush Parajuli</a></p>
