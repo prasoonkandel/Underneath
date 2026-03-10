@@ -1,0 +1,7 @@
+# Hide Unity shader languages from GitHub Linguist
+*.shader linguist-detectable=false
+*.hlsl   linguist-detectable=false
+*.cginc  linguist-detectable=false
+
+# Force C# as the primary language
+*.cs     linguist-language=C#
