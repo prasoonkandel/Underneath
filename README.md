@@ -27,6 +27,5 @@
   <hr>
 <h3>Developers:</h3>
 <p>1. <a href="https://github.com/Hexagrim">Aayush Parajuli</a></p>
-<p>2. <a href="https://github.com/prasoonkandel">Prasoon Kandel</a></p>
-<p>3. <a href="https://github.com/Pratiksuii7">Pratik Chalise</a></p>
+<p>2. <a href="https://github.com/Pratiksuii7">Pratik Chalise</a></p>
 <hr>
